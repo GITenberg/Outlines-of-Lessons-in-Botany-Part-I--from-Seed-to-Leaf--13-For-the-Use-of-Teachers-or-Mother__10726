@@ -1,11 +1,16 @@
 _repo: Outlines-of-Lessons-in-Botany-Part-I--from-Seed-to-Leaf--13-For-the-Use-of-Teachers-or-Mother__10726
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Newell, Jane H. (Jane Hancox)
     gutenberg_agent_id: '3652'
     url: http://www.gutenberg.org/2009/agents/3652
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10726#Outlines-of-Lessons-in-Botany-Part-I--from-Seed-to-Leaf--13-For-the-Use-of-Teachers-or-Mother_
 gutenberg_bookshelf:
 - Botany
 - Children's Instructional Books
